@@ -1,0 +1,9 @@
+*
+!*/
+!*.md
+!*.sln
+!*.cpp
+!*.hpp
+!*.vcxproj
+!*Makefile
+!.gitignore
